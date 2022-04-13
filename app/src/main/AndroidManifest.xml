@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Ag_Bebidas"></activity>
+        <activity android:name=".Mod_Bebida"></activity>
+        <activity android:name=".Ag_Bebidas" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
